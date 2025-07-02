@@ -30,8 +30,8 @@ st.sidebar.markdown("""
 st.markdown("""
 <style>
 .big-font { font-size:32px !important; font-weight: bold; }
-.result-box { background: #f0f6ff; border-radius: 10px; padding: 20px; margin-bottom: 20px; }
-.skill-chip { display: inline-block; background: #e0e0e0; border-radius: 20px; padding: 5px 15px; margin: 2px; font-size: 15px; }
+.result-box { background: 	#808080; border-radius: 10px; padding: 20px; margin-bottom: 20px; }
+.skill-chip { display: inline-block; background: #800000; border-radius: 20px; padding: 5px 15px; margin: 2px; font-size: 15px; }
 .missing-skill { background: #ffe0e0; color: #b00020; }
 .footer { text-align: center; color: #888; font-size: 14px; margin-top: 40px; }
 </style>
