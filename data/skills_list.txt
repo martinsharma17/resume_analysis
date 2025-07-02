@@ -1,0 +1,33 @@
+python
+java
+c++
+javascript
+html
+css
+sql
+machine learning
+data analysis
+project management
+communication
+teamwork
+leadership
+problem solving
+excel
+powerpoint
+word
+linux
+aws
+git
+docker
+react
+node.js
+angular
+c#
+ruby
+php
+swift
+kotlin
+r
+tensorflow
+pytorch
+nlp 
