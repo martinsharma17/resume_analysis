@@ -4,7 +4,8 @@
 
 Smart Resume Analyzer is a Python-based web application that helps job seekers and recruiters by automatically analyzing resumes and matching them with job descriptions. It extracts skills from both resumes and job descriptions, calculates a match percentage, and suggests missing skills to improve job fit.
 
----
+Live: https://resumeanalysisbymartinsharma.streamlit.app/
+
 
 ## 🛠️ How the System Works
 
