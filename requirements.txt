@@ -1,7 +1,7 @@
 streamlit
 python-docx
 PyPDF2
-pdfminer. six
+pdfminer.six
 spacy
 scikit-learn
 nltk 
